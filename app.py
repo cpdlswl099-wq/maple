@@ -141,8 +141,8 @@ div[data-testid="stMetricLabel"] {font-size: 0.9rem;}
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📈 메이플키우기 종결 계산기")
-st.caption("엑셀 종결시트를 웹으로 옮긴 버전 · 고대책 반영 · 목표치/필요량/필요횟수까지 자동 계산")
+st.title("📈 메이플키우기 계산기")
+st.caption("Hyedan 69섭 테토클럽 전용")
 
 # Sidebar inputs
 with st.sidebar:
